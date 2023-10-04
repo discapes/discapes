@@ -1,5 +1,5 @@
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=discapes&hide_rank=true&include_all_commits=true&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) \_\_![image](https://github.com/discapes/discapes/assets/48839377/4974ed8a-5cdc-4060-92a6-beb7ac8570f1)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=discapes&hide_rank=true&include_all_commits=true&&show_icons=true&theme=radical) \_\_![langs](https://github.com/discapes/discapes/assets/48839377/4974ed8a-5cdc-4060-92a6-beb7ac8570f1)
 
 
 <!--
